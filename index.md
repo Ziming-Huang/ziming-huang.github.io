@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Ziming-Huang/ziming-huang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-[CFA](https://github.com/Ziming-Huang/ziming-huang.github.io/edit/main/2022-cfa-program-curriculum-changes-guide.pdf)
+[CFA](https://github.com/Ziming-Huang/ziming-huang.github.io/main/2022-cfa-program-curriculum-changes-guide.pdf)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
